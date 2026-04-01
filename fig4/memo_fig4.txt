@@ -1,0 +1,21 @@
+Theory
+n1_n2_n3_n4_uniform_a3gdep_LM.txt
+n1_n2_n3_power_a3gdep_LM.txt
+n1 = d*100,  n2 = alpha1*10000,  n3 = alpha2*10000,  n4 = r*1000
+
+column1 = alpha3*g
+column9 = mu
+column10 = mcat
+
+Simulation
+n1_n2_n3_n4_n5_ER_a3gdep_steady_ave.txt
+n1 = N,  n2 = c,  n3 = d*100,  n4 = alpha1*10000,  n5 = alpha2*10000
+
+n1_n2_n3_n4_n5_n6_dBA_a3gdep_steady_ave.txt
+n1 = N,  n2 = c,  n3 = A/c*1000,  n4 = d*100,  n5 = alpha1*10000,  n6 = alpha2*10000
+
+column1 = alpha3*g
+column14 = average of mcat
+column15 = standard error of mcat
+column28 = average of mu
+column29 = standard error of mu

@@ -1,0 +1,6 @@
+death_uniform_n1_n2_n3_uniform_Ddep_LM.txt
+n1_n2_n3_power_Ddep_LM.txt
+n1 = alpha1*10000,  n2 = alpha2*10000,  n3 = r*1000
+
+column1 = d
+column2 = alpha3*g
