@@ -1,0 +1,19 @@
+Fig. 6(a)
+n1_n2_n3_n4_n5_n6_n7_ER_ave.txt
+n1 = N,  n2 = c,  n3 = d*100, n4 = g*100,  n5 = alpha1*10000,  n6 = alpha2*10000
+
+Fig. 6(b)
+n1_n2_n3_n4_n5_n6_n7_n8_dBA_ave.txt
+n1 = N,  n2 = c,  n3 = A/c*1000,  n4 = d*100, n5 = g*100,  n6 = alpha1*10000,  n7 = alpha2*10000
+
+Fig. 6(c)
+n1_n2_n3_n4_n5_n6_n7_ER_a3gdep_ave.txt
+n1 = N,  n2 = c,  n3 = d*100, n4 = g*100,  n5 = alpha1*10000,  n6 = alpha2*10000
+
+Fig. 6(d)
+n1_n2_n3_n4_n5_n6_n7_n8_dBA_a3gdep_ave.txt
+n1 = N,  n2 = c,  n3 = A/c*1000,  n4 = d*100, n5 = g*100,  n6 = alpha1*10000,  n7 = alpha2*10000
+
+column1 = time
+column27 = average of mu
+column28 = standard error of mu
